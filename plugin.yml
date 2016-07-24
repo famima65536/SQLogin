@@ -1,0 +1,6 @@
+name: SQLogin
+main: FAMIMA\SQLogin\SQLogin
+author: FAMIMA
+authors: [famimaS, famima65536]
+version: 1.0.2
+api: [1.10.0, 2.0.0]
